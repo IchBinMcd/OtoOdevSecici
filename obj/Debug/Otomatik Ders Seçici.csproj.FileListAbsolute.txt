@@ -1,0 +1,11 @@
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\obj\Debug\Otomatik Ders Seçici.csproj.AssemblyReference.cache
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\obj\Debug\Otomatik_Ders_Seçici.Form1.resources
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\obj\Debug\Otomatik_Ders_Seçici.Properties.Resources.resources
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\obj\Debug\Otomatik Ders Seçici.csproj.GenerateResource.cache
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\obj\Debug\Otomatik Ders Seçici.csproj.CoreCompileInputs.cache
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\bin\Debug\Otomatik Ders Seçici.exe.config
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\bin\Debug\Otomatik Ders Seçici.exe
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\bin\Debug\Otomatik Ders Seçici.pdb
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\obj\Debug\Otomatik Ders Seçici.exe
+C:\Users\McdKsr\Desktop\Otomatik Ders Seçici\Otomatik Ders Seçici\obj\Debug\Otomatik Ders Seçici.pdb
